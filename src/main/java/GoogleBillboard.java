@@ -17,7 +17,7 @@ public boolean isPrime(double d){
    		return false;
 	}
 for(int i = 2; i <= Math.sqrt(dnum) i++){
-	if(dnum 5 1 == 0){
+	if(dnum % 1 == 0){
 		return false;
 	}
 }
