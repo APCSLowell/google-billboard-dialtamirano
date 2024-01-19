@@ -13,7 +13,7 @@ for(int i = 2; i < e.length()-10; i++){
 }
 //no draw
   //Finish this function
-public boolean isPrime(double dNum){
+public static boolean isPrime(double dNum){
   if(dNum < 2){
        return false;
   }
